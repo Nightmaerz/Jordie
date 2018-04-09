@@ -1,6 +1,6 @@
 package com.company;
 
-public class TurkeyAdapter implements duck {
+public class TurkeyAdapter implements Duck {
     Turkey turkey;
     public TurkeyAdapter(Turkey turkey) {
         this.turkey = turkey;

@@ -1,6 +1,6 @@
 package com.company;
 
-public class MallardDuck implements duck {
+public class MallardDuck implements Duck {
     public void quack() {
         System.out.println("quack");
 

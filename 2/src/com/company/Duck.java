@@ -1,6 +1,7 @@
 package com.company;
 
-public interface duck {
+public interface Duck {
     public void quack();
     public void fly();
 }
+
