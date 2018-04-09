@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac0e66c0-fdb9-40ba-9aa0-71bcb9e0db65" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/1/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1/src/com/company/FlyBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1/src/com/company/FlyNoWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1/src/com/company/FlyWithWings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1/src/com/company/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1/src/com/company/QuackBehavior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/src/com/company/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/1/src/com/company/Duck.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
