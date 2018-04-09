@@ -26,13 +26,13 @@
           <file leaf-file-name="Duck.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/com/company/Duck.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="255">
-                  <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+                <state relative-caret-position="345">
+                  <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
                   <folding>
-                    <element signature="e#461#462#0" expanded="true" />
-                    <element signature="e#494#495#0" expanded="true" />
-                    <element signature="e#563#564#0" expanded="true" />
-                    <element signature="e#600#601#0" expanded="true" />
+                    <element signature="e#204#205#0" expanded="true" />
+                    <element signature="e#237#238#0" expanded="true" />
+                    <element signature="e#270#271#0" expanded="true" />
+                    <element signature="e#307#308#0" expanded="true" />
                     <element signature="e#332#333#0" expanded="true" />
                     <element signature="e#399#400#0" expanded="true" />
                     <element signature="e#447#448#0" expanded="true" />
@@ -157,8 +157,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -172,9 +172,12 @@
         <option value="$PROJECT_DIR$/src/com/company/QuackBehavior.java" />
         <option value="$PROJECT_DIR$/src/com/company/aTributeDuck.java" />
         <option value="$PROJECT_DIR$/src/com/company/TributeDuck.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Duck.java" />
         <option value="$PROJECT_DIR$/src/com/company/FlyRocketPowered.java" />
         <option value="$PROJECT_DIR$/src/com/company/DuckSim.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Duck.java" />
+        <option value="$PROJECT_DIR$/src/com/company/TurkeyAdapter.java" />
+        <option value="$PROJECT_DIR$/src/com/company/WildTurkey.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Turkey.java" />
       </list>
     </option>
   </component>
@@ -191,7 +194,7 @@
     <option name="height" value="1000" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -202,6 +205,17 @@
             <path>
               <item name="1" type="b2602c69:ProjectViewProjectNode" />
               <item name="1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -286,15 +300,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523270150738</updated>
-      <workItem from="1523270154608" duration="4196000" />
+      <workItem from="1523270154608" duration="5497000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4196000" />
+    <option name="totallyTimeSpent" value="5497000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -305,12 +320,12 @@
       <window_info anchor="bottom" id="Event Log" sideWeight="0.5008086" side_tool="true" visible="true" weight="0.32924336" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919137" visible="true" weight="0.32924336" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919137" weight="0.32924336" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18867925" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.114824794" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -410,13 +425,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Duck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+        <state relative-caret-position="345">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
           <folding>
-            <element signature="e#461#462#0" expanded="true" />
-            <element signature="e#494#495#0" expanded="true" />
-            <element signature="e#563#564#0" expanded="true" />
-            <element signature="e#600#601#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
             <element signature="e#332#333#0" expanded="true" />
             <element signature="e#399#400#0" expanded="true" />
             <element signature="e#447#448#0" expanded="true" />
@@ -424,6 +439,23 @@
             <element signature="e#531#532#0" expanded="true" />
             <element signature="e#565#566#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/TurkeyAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/WildTurkey.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Turkey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
